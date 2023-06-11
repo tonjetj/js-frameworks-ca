@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# Eshop, JavaScript Frameworks CA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![eshop1](https://github.com/tonjetj/js-frameworks-ca/assets/91598255/2ac08e86-7e33-4ba0-8e85-81f2a015a528)
 
-## Available Scripts
+Eshop is an ecommerce shop built with React, offering a wide range of products for online shopping.
 
-In the project directory, you can run:
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Eshop is an online ecommerce shop where users can explore and purchase various products. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Key Features:
 
-### `npm test`
+- Browse through a diverse catalog of products.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Built With
 
-### `npm run build`
+Eshop is built using the following technologies: 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- Redux
+- HTML
+- JavaScript
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Installing
 
-### `npm run eject`
+To get started with the project, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Clone the repo:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone [https://github.com/tonjetj/2022-semester-project.git](https://github.com/tonjetj/js-frameworks-ca.git))
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Install the dependencies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To install the necessary dependencies for your GitHub repository project after cloning, follow these steps:
 
-## Learn More
+ a. Make sure you have Node.js installed on your system. If not, download and install it from the official Node.js website.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ b. Open your project in an integrated development environment (IDE) like Visual Studio Code (VS Code) or any text editor of your choice.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ c. Install the dependencies listed in the package.json file by running:
+ 
+```
+npm install 
+```
 
-### Code Splitting
+This will install the necessary dependencies specified in the package.json file.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Note:** If you encounter any issues during the installation process, make sure you have Node.js and npm (Node Package Manager) installed on your system.
 
-### Analyzing the Bundle Size
+### Running
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+To run the app, run the following commands:
 
-### Making a Progressive Web App
+```bash
+npm run start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This will start the app and open it in your browser at http://localhost:3000. The page will automatically reload if you make any changes to the code. Any lint errors will be displayed in the console.
 
-### Advanced Configuration
+### Building
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+To build the app for production, use the following command:
+
+```bash
+npm run build
+```
+
+This command will create an optimized production build of the app in the build folder. The build is minified, and the filenames include the hashes. Your app is now ready to be deployed.
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+To deploy your Eshop application, follow the deployment instructions provided in the [Create React App deployment documentation](https://create-react-app.dev/docs/deployment/). This documentation will guide you through the process of deploying a React app to various hosting platforms.
 
-### `npm run build` fails to minify
+### Troubleshooting
+If you encounter any issues during the build process, refer to the Create [React App troubleshooting guide](https://create-react-app.dev/docs/troubleshooting/#npm-run-build-fails-to-minify) for possible solutions.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+
+If you would like to contribute, please follow these guidelines:
+
+- Fork the repository and create a new branch for your contributions.
+- Make your desired changes or additions to the codebase.
+- Ensure that your changes adhere to the project's coding conventions and best practices.
+- Test your changes thoroughly to ensure they function as expected.
+- Open a pull request, providing a clear and concise description of your changes.
+- Your pull request will be reviewed by the project maintainers, and any necessary feedback or discussions will be conducted.
+- Once your changes are approved, they will be merged into the main branch.
+
+Thank you for considering contributing to this project!
+
+## Contact
+
+You can reach out to me through the following channels:
+[www.linkedin.com](https://www.linkedin.com/in/tonje-totland-jenssen-1b6209a4/)
+I would be happy to answer any questions or discuss any feedback you may have regarding the project.
